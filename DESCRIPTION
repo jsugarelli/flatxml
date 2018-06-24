@@ -1,0 +1,16 @@
+Package: flatxml
+Type: Package
+Title: Tools for Working with XML Files as R Dataframes
+Version: 0.0.1
+Authors@R: person("Joachim", "Zuckarelli", email = "joachim@zuckarelli.de",
+  role = c("aut", "cre"))
+Maintainer: Joachim Zuckarelli <joachim@zuckarelli.de>
+Description: On import, the XML information is converted to a dataframe that reflects the hierarchical XML structure. Intuitive functions allow to navigate within this transparent XML data structure (without any knowledge of 'XPath'). 'flatXML' also provides tools to extract data from the XML into a flat dataframe that can be used to perform statistical operations.
+License: GPL-3
+BugReports: https://github.com/jsugarelli/flatxml/issues
+URL: https://github.com/jsugarelli/flatxml/
+Repository: CRAN
+Encoding: UTF-8
+LazyData: true
+Imports: RCurl, xml2
+RoxygenNote: 6.0.1

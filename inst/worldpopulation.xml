@@ -1,0 +1,185 @@
+﻿<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Afghanistan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">27657145</field>
+            <field name="Value Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Afghanistan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">14149838</field>
+            <field name="Value Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Afghanistan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">13507307</field>
+            <field name="Value Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Åland Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">29099</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Åland Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">14526</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Åland Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">14573</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Albania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2886026</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Albania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2876101</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Albania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1456000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Albania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1420101</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Algeria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">40835602</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Algeria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">20680271</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Algeria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">20155331</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Andorra</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">72358</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Andorra</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">71732</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Andorra</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">36229</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Andorra</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">36590</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Andorra</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">35768</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Andorra</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">35503</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Argentina</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">43590368</field>
+            <field name="Value Footnotes">3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Argentina</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">21364470</field>
+            <field name="Value Footnotes">3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Argentina</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">22225898</field>
+            <field name="Value Footnotes">3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Armenia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2992364</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Armenia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1423906</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Armenia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1568458</field>
+            <field name="Value Footnotes"></field>
+        </record>
+  
+    </data>
+    <footnotes>
+        <footnote footnoteSeqID="1">Data refer to the settled population based on the 1979 Population Census and the latest household prelisting. The refugees of Afghanistan in Iran, Pakistan, and an estimated 1.5 million nomads, are not included.</footnote>
+        <footnote footnoteSeqID="2">Population statistics are compiled from registers.</footnote>
+        <footnote footnoteSeqID="3">Projections based on the 2010 Population and Housing Census.</footnote>
+    </footnotes>
+</ROOT>
