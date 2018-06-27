@@ -1,7 +1,7 @@
 Package: flatxml
 Type: Package
 Title: Tools for Working with XML Files as R Dataframes
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: person("Joachim", "Zuckarelli", email = "joachim@zuckarelli.de",
   role = c("aut", "cre"))
 Maintainer: Joachim Zuckarelli <joachim@zuckarelli.de>
