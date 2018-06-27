@@ -156,13 +156,25 @@ flattenXML<-function(node, frame, path) {
 
   frame <- rbind(frame, df)
   attr.list <- xml2::xml_attrs(node)
-  if(length(attr.list) > 0) {
-    if(length(attr.list[[1]]) > 0)
-    {
-      for(f in 1:length(attr.list[[1]])) {
-        if(length(attr.list[[1]])>0) {
-          df$attr.<-names(attr.list[[1]][f])
-          df$value.<- attr.list[[1]][f]
+  if(is.character(attr.list)) {
+    if(NROW(attr.list) > 0) {
+      for(f in 1:NROW(attr.list)) {
+        if(!is.na(names(attr.list)[f])) df$attr. <- names(attr.list)[f]
+        else df$attr. <- ""
+        if(!is.na(attr.list[f])) df$value. <- attr.list[f]
+        else df$value. <- NA
+        frame <- rbind(frame, df)
+      }
+    }
+  }
+  else {
+    if(is.list(attr.list)) {
+      if(NROW(attr.list[[1]]) > 0) {
+        for(f in 1:NROW(attr.list[[1]])) {
+          if(!is.na(names(attr.list[[1]])[f])) df$attr. <- names(attr.list[[1]])[f]
+          else df$attr. <- ""
+          if(!is.na(attr.list[[1]][f])) df$value. <- attr.list[[1]][f]
+          else df$value. <- NA
           frame <- rbind(frame, df)
         }
       }
@@ -1110,7 +1122,7 @@ fxml_toDataFrame <- function(xmlflat.df, siblings.of, same.tag = TRUE, attr.only
     if(siblings.of %in% xmlflat.df$elemid.) {
       res <- data.frame()
       sibl <- fxml_getSiblings(xmlflat.df, siblings.of)
-      if(!is.null(sibl)) {
+      # if(!is.null(sibl)) {
         nodes <- sort(c(sibl, siblings.of))
         for(i in 1:length(nodes)) {
           r<-c()
@@ -1188,7 +1200,7 @@ fxml_toDataFrame <- function(xmlflat.df, siblings.of, same.tag = TRUE, attr.only
             }
           }
         }
-      }
+      #}
       return(res)
     }
     else stop("Invalid element ID.")
