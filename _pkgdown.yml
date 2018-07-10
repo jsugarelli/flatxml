@@ -1,0 +1,82 @@
+template:
+  params:
+    ganalytics: UA-99973049-1
+
+navbar:
+  title: "flatxml"
+  type: inverse
+  right:
+    - text: Twitter
+      icon: fa-twitter fa-lg
+      href: https://twitter.com/jsugarelli
+    - text: R Blog
+      icon: fa-rss fa-lg
+      href: https://topics-in-r.blogspot.de/
+    - text: Newsletter
+      icon: fa-code fa-lg
+      href: http://wp13011521.server-he.de/rpackages/subscribe.php
+    - text: E-mail
+      icon: fa-envelope fa-lg
+      href: mailto:joachim@zuckarelli.de
+
+
+  left:
+    - text: "Getting Started"
+      href: reference/flatxml.html
+    - text: "Package Reference"
+      href: reference/index.html
+    - text: "Example"
+      href: articles/example/example.html
+
+
+reference:
+  - title: "Importing XML into R and extracting data to dataframes"
+    contents:
+      - fxml_importXMLFlat
+      - fxml_toDataFrame
+
+  - title: "Working with the values of an XML element"
+    contents:
+      - fxml_hasValue
+      - fxml_getValue
+
+  - title: "Working with the attributes of an XML element"
+    contents:
+      - fxml_hasAttributes
+      - fxml_numAttributes
+      - fxml_getAttribute
+      - fxml_getAttributesAll
+
+  - title: "Working with the children of an XML element"
+    desc: Children = Elements one hierarchy level down for which the current element is the parent.
+    contents:
+      - fxml_hasChildren
+      - fxml_numChildren
+      - fxml_getChildren
+
+  - title: "Working with the siblings of an XML element"
+    desc: Siblings = Elements on the same level as the current element, with the same parent as the current element.
+    contents:
+      - fxml_hasSiblings
+      - fxml_numSiblings
+      - fxml_getSiblings
+
+  - title: "Working with the parent of an XML element"
+    desc: Parent = element one hierachy level up to which the current element is a child.
+    contents:
+      - fxml_hasParent
+      - fxml_getParent
+
+  - title: "Searching in an XML document"
+    contents:
+    - fxml_findPath
+    - fxml_findPathFull
+    - fxml_findPathRoot
+    - fxml_findPathBottom
+
+  - title: "Other functions"
+    contents:
+      - fxml_getElement
+      - fxml_getUniqueElements
+      - fxml_getElementInfo
+      - fxml_getDepthLevel

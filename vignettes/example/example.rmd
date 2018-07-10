@@ -1,0 +1,40 @@
+---
+title: "Example for the use for flatxml"
+output: html_document
+---
+
+<!-- author: "Joachim Zuckarelli"
+date: "25 Juni 2018" -->
+
+
+**Please note: This is only a first introductory example. The examples section will be extended in the near future.**
+
+As an example let's load an XML file exported from the database of the United Nations Statistics Division. This step may take some time as the XML file is quite large, so be patient when you reproduce these results in R. Please [click here](http://www.zuckarelli.de/flatxml/worldpopulation.xml) to download the dataset.  
+
+```{r echo=TRUE}
+library(flatxml)
+xml.dataframe <- fxml_importXMLFlat("http://www.zuckarelli.de/flatxml/worldpopulation.xml")
+```
+
+`fxml_importXMLFlat` returns a dataframe. This dataframe represents the hierarchical structure of the XML document. All other functions from the `flatxml` package work with this kind of representation of the XML document.  
+
+
+```{r echo=TRUE}
+head(xml.dataframe, 20)
+```
+
+Now, let's extract the data from the flat representation (that still contains the hierachical information of the original document) into a dataframe to which all statistical functions can be applied. This is done with the `fxml_toDataFrame` function.  
+
+As we can see from above XML element no. 3 is on the level where the actual data is located (therefore `siblings.of=3`, which means, the elements carrying the data are siblings of this element). The field names are given as attributes in our example XML file, therefore we choose `elem.or.attr="attr"`. The name of the attribute that contains the field names is `name`, therefore we have `col.attr="name"`. And finally, we want to exclude all the footnotes from our dataframe. To accomplish this we exclude those fields with `exclude.fields=c("Value Footnote")`.  
+
+With this preparation, we are ready to go:  
+
+```{r echo=TRUE}
+population.df <- fxml_toDataFrame(xml.dataframe, siblings.of=3, elem.or.attr="attr",
+col.attr="name", exclude.fields=c("Value Footnotes"))
+```
+
+The result looks like this:
+```{r echo=TRUE}
+head(population.df, 20)
+```
