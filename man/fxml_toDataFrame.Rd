@@ -2,11 +2,19 @@
 % Please edit documentation in R/flatxml.r
 \name{fxml_toDataFrame}
 \alias{fxml_toDataFrame}
-\title{Extracting data from an XML document into a dataframe}
+\title{Converting between XML and dataframes}
 \usage{
-fxml_toDataFrame(xmlflat.df, siblings.of, same.tag = TRUE, attr.only = NULL,
-  attr.not = NULL, elem.or.attr = "elem", col.attr = "",
-  include.fields = NULL, exclude.fields = NULL)
+fxml_toDataFrame(
+  xmlflat.df,
+  siblings.of,
+  same.tag = TRUE,
+  attr.only = NULL,
+  attr.not = NULL,
+  elem.or.attr = "elem",
+  col.attr = "",
+  include.fields = NULL,
+  exclude.fields = NULL
+)
 }
 \arguments{
 \item{xmlflat.df}{A flat XML dataframe created with \code{\link{fxml_importXMLFlat}}.}
@@ -36,7 +44,7 @@ Example: \code{attr.only = list(tag1 = c(attrib1 = "Value 1", attrib2 = "Value 2
 A dataframe with the data read in from the XML document.
 }
 \description{
-Reads in data from an XML document and returns a dataframe.
+Converts an XML document to a dataframe.
 }
 \details{
 Data that can be read in are either represented in this way:\cr \cr
@@ -87,7 +95,7 @@ xml.dataframe2 <- fxml_importXMLFlat(example2)
 worldcups.df <- fxml_toDataFrame(xml.dataframe2, siblings.of=3, elem.or.attr="elem")
 }
 \seealso{
-\code{\link{fxml_importXMLFlat}}
+\code{\link{fxml_importXMLFlat}}, \code{\link{fxml_toXML}}
 }
 \author{
 Joachim Zuckarelli \email{joachim@zuckarelli.de}

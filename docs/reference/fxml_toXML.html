@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Parent of an XML element — fxml_getParent • flatxml</title>
+<title>Converting between XML and dataframes — fxml_toXML • flatxml</title>
 
 
 <!-- jquery -->
@@ -39,8 +39,8 @@
 
 
 
-<meta property="og:title" content="Parent of an XML element — fxml_getParent" />
-<meta property="og:description" content="Returns the parent of an XML element." />
+<meta property="og:title" content="Converting between XML and dataframes — fxml_toXML" />
+<meta property="og:description" content="Converts a dataframe to XML." />
 
 
 
@@ -140,45 +140,64 @@
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-    <h1>Parent of an XML element</h1>
+    <h1>Converting between XML and dataframes</h1>
     <small class="dont-index">Source: <a href='https://github.com/jsugarelli/flatxml/blob/master/R/flatxml.r'><code>R/flatxml.r</code></a></small>
-    <div class="hidden name"><code>fxml_getParent.Rd</code></div>
+    <div class="hidden name"><code>fxml_toXML.Rd</code></div>
     </div>
 
     <div class="ref-description">
-    <p>Returns the parent of an XML element.</p>
+    <p>Converts a dataframe to XML.</p>
     </div>
 
-    <pre class="usage"><span class='fu'>fxml_getParent</span>(<span class='no'>xmlflat.df</span>, <span class='no'>elemid</span>)</pre>
+    <pre class="usage"><span class='fu'>fxml_toXML</span>(
+  <span class='no'>df</span>,
+  <span class='kw'>filename</span> <span class='kw'>=</span> <span class='kw'>NULL</span>,
+  <span class='kw'>element.tag</span> <span class='kw'>=</span> <span class='st'>"record"</span>,
+  <span class='kw'>indent</span> <span class='kw'>=</span> <span class='st'>"\t"</span>,
+  <span class='kw'>line.break</span> <span class='kw'>=</span> <span class='st'>"\n"</span>,
+  <span class='kw'>return.xml</span> <span class='kw'>=</span> <span class='fl'>FALSE</span>
+)</pre>
 
     <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
     <table class="ref-arguments">
     <colgroup><col class="name" /><col class="desc" /></colgroup>
     <tr>
-      <th>xmlflat.df</th>
-      <td><p>A flat XML dataframe created with <code><a href='fxml_importXMLFlat.html'>fxml_importXMLFlat</a></code>.</p></td>
+      <th>df</th>
+      <td><p>The dataframe to be converted (also works with tibbles and the like)</p></td>
     </tr>
     <tr>
-      <th>elemid</th>
-      <td><p>The ID of the XML element. The ID is the value of the <code>elemid.</code> field in the flat XML dataframe.</p></td>
+      <th>filename</th>
+      <td><p>Name of the file to which the XML will be saved; default is <code>NULL</code> meaning no file is produced</p></td>
+    </tr>
+    <tr>
+      <th>element.tag</th>
+      <td><p>The tag name of the XML element that will carry the data (see example)</p></td>
+    </tr>
+    <tr>
+      <th>indent</th>
+      <td><p>Character(s) used for indentation to make the XML prettier; tabulator (<code>"\t"</code>) by default ("" will lead to no indentation)</p></td>
+    </tr>
+    <tr>
+      <th>line.break</th>
+      <td><p>Character(s) that is written at the end of each line of the XML (line break <code>"\n"</code> by default)</p></td>
+    </tr>
+    <tr>
+      <th>return.xml</th>
+      <td><p>If <code>TRUE</code>, the XML will be returned by the function; so you can decide if you want the function write a file, or just return the XML code, or both.</p></td>
     </tr>
     </table>
 
     <h2 class="hasAnchor" id="value"><a class="anchor" href="#value"></a>Value</h2>
 
-    <p>The ID (<code>xmlflat.df$elemid.</code>) of the parent node of the XML element with ID <code>elemid</code>. If no parent exists (because XML node <code>elemid</code> is the root node of the XML document) then <code>NULL</code> is returned.</p>
+    <p>If <code>return.xml == TRUE</code> the XML code is returned. If <code>filename</code> is not <code>NULL</code> then the XML is (additionally) written to the specified file.</p>
     <h2 class="hasAnchor" id="see-also"><a class="anchor" href="#see-also"></a>See also</h2>
 
-    <div class='dont-index'><p><code><a href='fxml_hasParent.html'>fxml_hasParent</a></code></p></div>
+    <div class='dont-index'><p><code><a href='fxml_toDataFrame.html'>fxml_toDataFrame</a></code></p></div>
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='co'># Load example file with population data from United Nations Statistics Division</span>
-<span class='co'># and create flat dataframe</span>
-<span class='no'>example</span> <span class='kw'>&lt;-</span> <span class='fu'><a href='https://rdrr.io/r/base/system.file.html'>system.file</a></span>(<span class='st'>"worldpopulation.xml"</span>, <span class='kw'>package</span><span class='kw'>=</span><span class='st'>"flatxml"</span>)
-<span class='no'>xml.dataframe</span> <span class='kw'>&lt;-</span> <span class='fu'><a href='fxml_importXMLFlat.html'>fxml_importXMLFlat</a></span>(<span class='no'>example</span>)
-
-<span class='co'># Get the ID of the parent element of the XML element with ID 4 (xml.dataframe$elemid. ==  4)</span>
-<span class='fu'>fxml_getParent</span>(<span class='no'>xml.dataframe</span>, <span class='fl'>4</span>)</div><div class='output co'>#&gt; [1] 3</div></pre>
+    <pre class="examples"><div class='input'><span class='no'>mydata</span><span class='kw'>&lt;-</span><span class='fu'><a href='https://rdrr.io/r/base/data.frame.html'>data.frame</a></span>(<span class='fu'><a href='https://rdrr.io/r/base/list.html'>list</a></span>(<span class='kw'>var1</span> <span class='kw'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span>(<span class='st'>"a"</span>, <span class='st'>"b"</span>, <span class='st'>"c"</span>), <span class='kw'>var2</span> <span class='kw'>=</span> <span class='fu'><a href='https://rdrr.io/r/base/c.html'>c</a></span>(<span class='fl'>1</span>,<span class='fl'>2</span>,<span class='fl'>3</span>)))
+<span class='fu'>fxml_toXML</span>(<span class='no'>mydata</span>, <span class='kw'>return.xml</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>)</div><div class='output co'>#&gt; [1] "&lt;xml&gt;\n\t&lt;record&gt;\n\t\t&lt;var1&gt;a&lt;/var1&gt;\n\t\t&lt;var2&gt;1&lt;/var2&gt;\n\t&lt;/record&gt;\n\t&lt;record&gt;\n\t\t&lt;var1&gt;b&lt;/var1&gt;\n\t\t&lt;var2&gt;2&lt;/var2&gt;\n\t&lt;/record&gt;\n\t&lt;record&gt;\n\t\t&lt;var1&gt;c&lt;/var1&gt;\n\t\t&lt;var2&gt;3&lt;/var2&gt;\n\t&lt;/record&gt;\n&lt;/xml&gt;"</div><div class='input'>
+</div></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">

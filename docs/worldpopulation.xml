@@ -1,0 +1,4346 @@
+﻿<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Afghanistan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">27657145</field>
+            <field name="Value Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Afghanistan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">14149838</field>
+            <field name="Value Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Afghanistan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">13507307</field>
+            <field name="Value Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Åland Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">29099</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Åland Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">14526</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Åland Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">14573</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Albania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2886026</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Albania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2876101</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Albania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1456000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Albania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1420101</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Algeria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">40835602</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Algeria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">20680271</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Algeria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">20155331</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Andorra</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">72358</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Andorra</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">71732</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Andorra</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">36229</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Andorra</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">36590</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Andorra</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">35768</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Andorra</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">35503</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Argentina</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">43590368</field>
+            <field name="Value Footnotes">3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Argentina</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">21364470</field>
+            <field name="Value Footnotes">3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Argentina</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">22225898</field>
+            <field name="Value Footnotes">3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Armenia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2992364</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Armenia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1423906</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Armenia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1568458</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Aruba</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">110292</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Aruba</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">52216</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Aruba</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">58076</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Australia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">23717421</field>
+            <field name="Value Footnotes">4,5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Australia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">23401892</field>
+            <field name="Value Footnotes">4,5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Australia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">24128876</field>
+            <field name="Value Footnotes">6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Australia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">11686665</field>
+            <field name="Value Footnotes">4,5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Australia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">11546638</field>
+            <field name="Value Footnotes">4,5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Australia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">11990972</field>
+            <field name="Value Footnotes">6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Australia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">12030751</field>
+            <field name="Value Footnotes">4,5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Australia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">11855248</field>
+            <field name="Value Footnotes">4,5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Australia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">12137904</field>
+            <field name="Value Footnotes">6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Austria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">8690076</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Austria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">8739806</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Austria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">4295164</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Austria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">4265369</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Austria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">4424707</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Austria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">4444642</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Azerbaijan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">9757800</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Azerbaijan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">4863400</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Azerbaijan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">4894400</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bahamas</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">373480</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bahamas</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">180280</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bahamas</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">193200</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bahrain</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">1423726</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bahrain</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">888389</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bahrain</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">535337</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bangladesh</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">160800000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bangladesh</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">80500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bangladesh</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">80300000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belarus</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">9498364</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belarus</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">9501534</field>
+            <field name="Value Footnotes">8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Belarus</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">4423680</field>
+            <field name="Value Footnotes">8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Belarus</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">4420842</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belarus</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5077522</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belarus</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5077854</field>
+            <field name="Value Footnotes">8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Belgium</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">11311117</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belgium</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5569264</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belgium</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5741853</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belize</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">377968</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belize</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">188986</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belize</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">188982</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Benin</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">10882953</field>
+            <field name="Value Footnotes">9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Benin</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5334603</field>
+            <field name="Value Footnotes">9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Benin</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5548350</field>
+            <field name="Value Footnotes">9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bermuda</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">61695</field>
+            <field name="Value Footnotes">10</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bermuda</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">29463</field>
+            <field name="Value Footnotes">10</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bermuda</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">32232</field>
+            <field name="Value Footnotes">10</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bhutan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">768577</field>
+            <field name="Value Footnotes">11</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bhutan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">398948</field>
+            <field name="Value Footnotes">11</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bhutan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">369629</field>
+            <field name="Value Footnotes">11</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bolivia (Plurinational State of)</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">10985059</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bolivia (Plurinational State of)</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5535975</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bolivia (Plurinational State of)</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5449084</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bosnia and Herzegovina</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">3515982</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bosnia and Herzegovina</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">3512855</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Botswana</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2230905</field>
+            <field name="Value Footnotes">12</field>
+        </record>
+        <record>
+            <field name="Country or Area">Botswana</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1088246.34146341</field>
+            <field name="Value Footnotes">12</field>
+        </record>
+        <record>
+            <field name="Country or Area">Botswana</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1142658.65853659</field>
+            <field name="Value Footnotes">12</field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">206081432</field>
+            <field name="Value Footnotes">7,13</field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">101726102</field>
+            <field name="Value Footnotes">7,13</field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">104355330</field>
+            <field name="Value Footnotes">7,13</field>
+        </record>
+        <record>
+            <field name="Country or Area">Brunei Darussalam</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">422678</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bulgaria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">7127822</field>
+            <field name="Value Footnotes">8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bulgaria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">7153784</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bulgaria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">3477177</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bulgaria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">3463578</field>
+            <field name="Value Footnotes">8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bulgaria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">3664244</field>
+            <field name="Value Footnotes">8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bulgaria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">3676607</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Burundi</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">11215019</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Burundi</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5539821</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Burundi</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5675198</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cabo Verde</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">531238.925128285</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cabo Verde</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">266287.452314959</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cabo Verde</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">264951.472813326</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cameroon</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">22709892</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cameroon</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">11216886</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cameroon</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">11493006</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">35151730</field>
+            <field name="Value Footnotes">14</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">36286425</field>
+            <field name="Value Footnotes">15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">17264200</field>
+            <field name="Value Footnotes">14</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">17995581</field>
+            <field name="Value Footnotes">15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">17887530</field>
+            <field name="Value Footnotes">14</field>
+        </record>
+        <record>
+            <field name="Country or Area">Canada</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">18290844</field>
+            <field name="Value Footnotes">15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Chile</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">18191884</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Chile</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">9003254</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Chile</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">9188630</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">China, Hong Kong SAR</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">7336585</field>
+            <field name="Value Footnotes">16,17</field>
+        </record>
+        <record>
+            <field name="Country or Area">China, Hong Kong SAR</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">7336600</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">China, Hong Kong SAR</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">3375362</field>
+            <field name="Value Footnotes">16,17</field>
+        </record>
+        <record>
+            <field name="Country or Area">China, Hong Kong SAR</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">3375400</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">China, Hong Kong SAR</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">3961223</field>
+            <field name="Value Footnotes">16,17</field>
+        </record>
+        <record>
+            <field name="Country or Area">China, Hong Kong SAR</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">3961200</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">China, Macao SAR</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">650834</field>
+            <field name="Value Footnotes">18</field>
+        </record>
+        <record>
+            <field name="Country or Area">China, Macao SAR</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">644900</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">China, Macao SAR</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">314018</field>
+            <field name="Value Footnotes">18</field>
+        </record>
+        <record>
+            <field name="Country or Area">China, Macao SAR</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">336816</field>
+            <field name="Value Footnotes">18</field>
+        </record>
+        <record>
+            <field name="Country or Area">Colombia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">48747708</field>
+            <field name="Value Footnotes">19</field>
+        </record>
+        <record>
+            <field name="Country or Area">Colombia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">24069035</field>
+            <field name="Value Footnotes">19</field>
+        </record>
+        <record>
+            <field name="Country or Area">Colombia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">24678673</field>
+            <field name="Value Footnotes">19</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cook Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">17459</field>
+            <field name="Value Footnotes">20</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cook Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">8597</field>
+            <field name="Value Footnotes">20</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cook Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">8862</field>
+            <field name="Value Footnotes">20</field>
+        </record>
+        <record>
+            <field name="Country or Area">Costa Rica</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4889762</field>
+            <field name="Value Footnotes">21</field>
+        </record>
+        <record>
+            <field name="Country or Area">Costa Rica</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2373531</field>
+            <field name="Value Footnotes">21</field>
+        </record>
+        <record>
+            <field name="Country or Area">Costa Rica</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2516231</field>
+            <field name="Value Footnotes">21</field>
+        </record>
+        <record>
+            <field name="Country or Area">Côte d'Ivoire</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">23950475</field>
+            <field name="Value Footnotes">22</field>
+        </record>
+        <record>
+            <field name="Country or Area">Côte d'Ivoire</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">12340861</field>
+            <field name="Value Footnotes">22</field>
+        </record>
+        <record>
+            <field name="Country or Area">Côte d'Ivoire</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">11609614</field>
+            <field name="Value Footnotes">22</field>
+        </record>
+        <record>
+            <field name="Country or Area">Croatia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4190669</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Croatia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4174349</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Croatia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2014837</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Croatia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2022797</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Croatia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2167872</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Croatia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2159512</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cuba</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">11239114</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cuba</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5599279</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cuba</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5639835</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Curaçao</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">159663</field>
+            <field name="Value Footnotes">23</field>
+        </record>
+        <record>
+            <field name="Country or Area">Curaçao</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">72989.5</field>
+            <field name="Value Footnotes">23</field>
+        </record>
+        <record>
+            <field name="Country or Area">Curaçao</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">86673.5</field>
+            <field name="Value Footnotes">23</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cyprus</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">848319</field>
+            <field name="Value Footnotes">24</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cyprus</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">851600</field>
+            <field name="Value Footnotes">8,24</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cyprus</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">414700</field>
+            <field name="Value Footnotes">8,24</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cyprus</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">412692</field>
+            <field name="Value Footnotes">24</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cyprus</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">435627</field>
+            <field name="Value Footnotes">24</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cyprus</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">436900</field>
+            <field name="Value Footnotes">8,24</field>
+        </record>
+        <record>
+            <field name="Country or Area">Czechia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">10565284</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Czechia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">10553843</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Czechia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5186330</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Czechia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5193012</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Czechia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5372272</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Czechia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5367513</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Denmark</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">5724456</field>
+            <field name="Value Footnotes">2,25</field>
+        </record>
+        <record>
+            <field name="Country or Area">Denmark</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2848030</field>
+            <field name="Value Footnotes">2,25</field>
+        </record>
+        <record>
+            <field name="Country or Area">Denmark</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2876426</field>
+            <field name="Value Footnotes">2,25</field>
+        </record>
+        <record>
+            <field name="Country or Area">Dominican Republic</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">10075045</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Dominican Republic</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5037329</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Dominican Republic</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5037716</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ecuador</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">16528730</field>
+            <field name="Value Footnotes">10,26</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ecuador</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">8184970</field>
+            <field name="Value Footnotes">10,26</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ecuador</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">8343760</field>
+            <field name="Value Footnotes">10,26</field>
+        </record>
+        <record>
+            <field name="Country or Area">Egypt</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">91023393</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Egypt</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">46413993</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Egypt</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">44609400</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">El Salvador</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">6520675</field>
+            <field name="Value Footnotes">27</field>
+        </record>
+        <record>
+            <field name="Country or Area">El Salvador</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">3070065</field>
+            <field name="Value Footnotes">27</field>
+        </record>
+        <record>
+            <field name="Country or Area">El Salvador</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">3450610</field>
+            <field name="Value Footnotes">27</field>
+        </record>
+        <record>
+            <field name="Country or Area">Estonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">1315944</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Estonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">1315789.5</field>
+            <field name="Value Footnotes">8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Estonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">617123</field>
+            <field name="Value Footnotes">8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Estonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">616708</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Estonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">699236</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Estonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">698666.5</field>
+            <field name="Value Footnotes">8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ethiopia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">92205000</field>
+            <field name="Value Footnotes">28</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ethiopia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">46303000</field>
+            <field name="Value Footnotes">28</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ethiopia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">45902000</field>
+            <field name="Value Footnotes">28</field>
+        </record>
+        <record>
+            <field name="Country or Area">Faeroe Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">49503</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Faeroe Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">25560</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Faeroe Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">23943</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Finland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">5466204</field>
+            <field name="Value Footnotes">2,29</field>
+        </record>
+        <record>
+            <field name="Country or Area">Finland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">5487308</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Finland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2701490</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Finland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2692382.5</field>
+            <field name="Value Footnotes">2,29</field>
+        </record>
+        <record>
+            <field name="Country or Area">Finland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2773821.5</field>
+            <field name="Value Footnotes">2,29</field>
+        </record>
+        <record>
+            <field name="Country or Area">Finland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2785818</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">64679784</field>
+            <field name="Value Footnotes">30</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">64604599</field>
+            <field name="Value Footnotes">30</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">31311678</field>
+            <field name="Value Footnotes">30</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">31332989</field>
+            <field name="Value Footnotes">30</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">33346795</field>
+            <field name="Value Footnotes">30</field>
+        </record>
+        <record>
+            <field name="Country or Area">France</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">33292921</field>
+            <field name="Value Footnotes">30</field>
+        </record>
+        <record>
+            <field name="Country or Area">French Guiana</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">262527</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">French Guiana</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">130596</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">French Guiana</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">131931</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Georgia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">3719300</field>
+            <field name="Value Footnotes">31</field>
+        </record>
+        <record>
+            <field name="Country or Area">Georgia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1780500</field>
+            <field name="Value Footnotes">31</field>
+        </record>
+        <record>
+            <field name="Country or Area">Georgia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1938800</field>
+            <field name="Value Footnotes">31</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">82175684</field>
+            <field name="Value Footnotes">12</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">40514123</field>
+            <field name="Value Footnotes">12</field>
+        </record>
+        <record>
+            <field name="Country or Area">Germany</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">41661561</field>
+            <field name="Value Footnotes">12</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">28308301</field>
+            <field name="Value Footnotes">10</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">13886734</field>
+            <field name="Value Footnotes">10</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">14421567</field>
+            <field name="Value Footnotes">10</field>
+        </record>
+        <record>
+            <field name="Country or Area">Greece</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">10775989</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Greece</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">10775989</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Greece</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5222749</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Greece</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5222749</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Greece</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5553240</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Greece</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5553240</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Greenland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">56186</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Greenland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">29701</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Greenland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">26485</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guadeloupe</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">395725</field>
+            <field name="Value Footnotes">32</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guadeloupe</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">181700</field>
+            <field name="Value Footnotes">32</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guadeloupe</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">214025</field>
+            <field name="Value Footnotes">32</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guam</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">162742</field>
+            <field name="Value Footnotes">33</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guam</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">82420</field>
+            <field name="Value Footnotes">33</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guam</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">80322</field>
+            <field name="Value Footnotes">33</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guernsey</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">62266</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guernsey</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">30851</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guernsey</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">31415</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">11319323.0883922</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5462573.29961954</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5856749.78877266</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea-Bissau</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">1547777</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea-Bissau</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">759666</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea-Bissau</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">788111</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Hungary</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">9814023</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Hungary</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">9814023</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Hungary</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">4681905</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Hungary</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">4681905</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Hungary</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5132118</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Hungary</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5132118</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iceland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">335439</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iceland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">332529</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iceland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">167270</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iceland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">169151.5</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iceland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">166287.5</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iceland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">165259</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">258704986</field>
+            <field name="Value Footnotes">36</field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">129988690</field>
+            <field name="Value Footnotes">36</field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">128716296</field>
+            <field name="Value Footnotes">36</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran (Islamic Republic of)</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">79926270</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran (Islamic Republic of)</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">79685926</field>
+            <field name="Value Footnotes">37</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran (Islamic Republic of)</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">40498442</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran (Islamic Republic of)</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">40118657</field>
+            <field name="Value Footnotes">37</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran (Islamic Republic of)</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">39427828</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran (Islamic Republic of)</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">39567269</field>
+            <field name="Value Footnotes">37</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ireland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4761865</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ireland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4724720</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ireland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4673745</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ireland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2354428</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ireland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2335733</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ireland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2310465</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ireland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2407437</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ireland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2388987</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ireland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2363280</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Isle of Man</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">78560</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Isle of Man</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">83314</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Isle of Man</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">85619.308425258</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Isle of Man</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">41269</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Isle of Man</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">42665.4971614659</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Isle of Man</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">42045</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Isle of Man</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">42953.8112637921</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Israel</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">8546000</field>
+            <field name="Value Footnotes">38</field>
+        </record>
+        <record>
+            <field name="Country or Area">Italy</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">60627498</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Italy</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">60665551</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Italy</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">29456321</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Italy</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">29451031</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Italy</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">31176467</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Italy</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">31209230</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Jamaica</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2729112</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Jamaica</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1351649</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Jamaica</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1377463</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">126995000</field>
+            <field name="Value Footnotes">39,40,41</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">61781000</field>
+            <field name="Value Footnotes">39,40,41</field>
+        </record>
+        <record>
+            <field name="Country or Area">Japan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">65213000</field>
+            <field name="Value Footnotes">39,40,41</field>
+        </record>
+        <record>
+            <field name="Country or Area">Jersey</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">104200</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Jordan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">9798000</field>
+            <field name="Value Footnotes">42</field>
+        </record>
+        <record>
+            <field name="Country or Area">Jordan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5188000</field>
+            <field name="Value Footnotes">42</field>
+        </record>
+        <record>
+            <field name="Country or Area">Jordan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">4610000</field>
+            <field name="Value Footnotes">42</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kenya</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">45389112.2</field>
+            <field name="Value Footnotes">43</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kenya</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">22508627.8</field>
+            <field name="Value Footnotes">43</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kenya</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">22880484.4</field>
+            <field name="Value Footnotes">43</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kuwait</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">3925487</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Kuwait</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2320193</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Kuwait</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1605294</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Kyrgyzstan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">6079840</field>
+            <field name="Value Footnotes">8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kyrgyzstan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">3011702</field>
+            <field name="Value Footnotes">8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kyrgyzstan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">3068138</field>
+            <field name="Value Footnotes">8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lao People's Democratic Republic</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">6906200</field>
+            <field name="Value Footnotes">44</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lao People's Democratic Republic</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">3447100</field>
+            <field name="Value Footnotes">44</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lao People's Democratic Republic</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">3459100</field>
+            <field name="Value Footnotes">44</field>
+        </record>
+        <record>
+            <field name="Country or Area">Latvia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">1968957</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Latvia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">1959537</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Latvia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">899991</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Latvia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">904299</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Latvia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1064658</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Latvia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1059546</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Lesotho</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">1932814</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lesotho</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">924622</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lesotho</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1008192</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Liechtenstein</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">37686</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Liechtenstein</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">37622</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Liechtenstein</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">18660</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Liechtenstein</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">18673</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Liechtenstein</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">19013</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Liechtenstein</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">18962</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Lithuania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2888558</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lithuania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2868231</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lithuania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1320897</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lithuania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1329607</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lithuania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1558951</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lithuania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1547334</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Luxembourg</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">583458</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Luxembourg</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">576249</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Luxembourg</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">289193</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Luxembourg</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">292917</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Luxembourg</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">290541</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Luxembourg</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">287056</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Malawi</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">16832910</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malawi</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">8272152</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malawi</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">8560758</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malaysia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">31660683</field>
+            <field name="Value Footnotes">45</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malaysia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">16362530</field>
+            <field name="Value Footnotes">45</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malaysia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">15298153</field>
+            <field name="Value Footnotes">45</field>
+        </record>
+        <record>
+            <field name="Country or Area">Maldives</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">350093.226131806</field>
+            <field name="Value Footnotes">46</field>
+        </record>
+        <record>
+            <field name="Country or Area">Maldives</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">177871.600870764</field>
+            <field name="Value Footnotes">46</field>
+        </record>
+        <record>
+            <field name="Country or Area">Maldives</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">172221.625261042</field>
+            <field name="Value Footnotes">46</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malta</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">434403</field>
+            <field name="Value Footnotes">47</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malta</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">455410</field>
+            <field name="Value Footnotes">47</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malta</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">229058</field>
+            <field name="Value Footnotes">47</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malta</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">217569</field>
+            <field name="Value Footnotes">47</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malta</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">216834</field>
+            <field name="Value Footnotes">47</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malta</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">226352</field>
+            <field name="Value Footnotes">47</field>
+        </record>
+        <record>
+            <field name="Country or Area">Martinique</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">376847</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Martinique</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">174200</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Martinique</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">202647</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">3782701</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1864664</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1918037</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritius</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">1263473</field>
+            <field name="Value Footnotes">6,48</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritius</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">625206</field>
+            <field name="Value Footnotes">6,48</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritius</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">638267</field>
+            <field name="Value Footnotes">6,48</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mayotte</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">235132</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mayotte</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">114072</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mayotte</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">121060</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">122273473.320936</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">59644308.3642232</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">62629164.9567123</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Monaco</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">37308</field>
+            <field name="Value Footnotes">49</field>
+        </record>
+        <record>
+            <field name="Country or Area">Monaco</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">38200</field>
+            <field name="Value Footnotes">49</field>
+        </record>
+        <record>
+            <field name="Country or Area">Monaco</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">18240</field>
+            <field name="Value Footnotes">49</field>
+        </record>
+        <record>
+            <field name="Country or Area">Monaco</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">19068</field>
+            <field name="Value Footnotes">49</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mongolia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">3088856</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mongolia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1518797</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mongolia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1570059</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Montenegro</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">622218</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Montenegro</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">622303</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Montenegro</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">307734</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Montenegro</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">314484</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Montserrat</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">5045</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Montserrat</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2596</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Montserrat</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2449</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Morocco</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">34486536</field>
+            <field name="Value Footnotes">50</field>
+        </record>
+        <record>
+            <field name="Country or Area">Morocco</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">17180879</field>
+            <field name="Value Footnotes">50</field>
+        </record>
+        <record>
+            <field name="Country or Area">Morocco</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">17305657</field>
+            <field name="Value Footnotes">50</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mozambique</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">26423623</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mozambique</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">12760324</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mozambique</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">13663299</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Myanmar</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">52916691</field>
+            <field name="Value Footnotes">31</field>
+        </record>
+        <record>
+            <field name="Country or Area">Myanmar</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">25450311</field>
+            <field name="Value Footnotes">31</field>
+        </record>
+        <record>
+            <field name="Country or Area">Myanmar</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">27466380</field>
+            <field name="Value Footnotes">31</field>
+        </record>
+        <record>
+            <field name="Country or Area">Namibia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2324388</field>
+            <field name="Value Footnotes">51</field>
+        </record>
+        <record>
+            <field name="Country or Area">Namibia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1129754</field>
+            <field name="Value Footnotes">51</field>
+        </record>
+        <record>
+            <field name="Country or Area">Namibia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1194634</field>
+            <field name="Value Footnotes">51</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nepal</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">28431494</field>
+            <field name="Value Footnotes">51</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nepal</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">13784009</field>
+            <field name="Value Footnotes">51</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nepal</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">14647486</field>
+            <field name="Value Footnotes">51</field>
+        </record>
+        <record>
+            <field name="Country or Area">Netherlands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">16979120</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Netherlands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">8417135</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Netherlands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">8561985</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">New Caledonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">274579</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">New Caledonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">138197</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">New Caledonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">136382</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">New Zealand</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4692700</field>
+            <field name="Value Footnotes">39</field>
+        </record>
+        <record>
+            <field name="Country or Area">New Zealand</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2308800</field>
+            <field name="Value Footnotes">39</field>
+        </record>
+        <record>
+            <field name="Country or Area">New Zealand</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2383900</field>
+            <field name="Value Footnotes">39</field>
+        </record>
+        <record>
+            <field name="Country or Area">Niger</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">19865066</field>
+            <field name="Value Footnotes">52</field>
+        </record>
+        <record>
+            <field name="Country or Area">Niger</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">9898628</field>
+            <field name="Value Footnotes">52</field>
+        </record>
+        <record>
+            <field name="Country or Area">Niger</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">9966438</field>
+            <field name="Value Footnotes">52</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">193392517.004397</field>
+            <field name="Value Footnotes">53</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">98630183.6722423</field>
+            <field name="Value Footnotes">53</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">94762333.3321543</field>
+            <field name="Value Footnotes">53</field>
+        </record>
+        <record>
+            <field name="Country or Area">Norway</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">5236826</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Norway</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">5210721</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Norway</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2623625</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Norway</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2587096</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Oman</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4414051</field>
+            <field name="Value Footnotes">54</field>
+        </record>
+        <record>
+            <field name="Country or Area">Oman</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2886083</field>
+            <field name="Value Footnotes">54</field>
+        </record>
+        <record>
+            <field name="Country or Area">Oman</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1527968</field>
+            <field name="Value Footnotes">54</field>
+        </record>
+        <record>
+            <field name="Country or Area">Panama</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4037043</field>
+            <field name="Value Footnotes">10</field>
+        </record>
+        <record>
+            <field name="Country or Area">Panama</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2026044</field>
+            <field name="Value Footnotes">10</field>
+        </record>
+        <record>
+            <field name="Country or Area">Panama</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2010999</field>
+            <field name="Value Footnotes">10</field>
+        </record>
+        <record>
+            <field name="Country or Area">Papua New Guinea</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">8151300</field>
+            <field name="Value Footnotes">55</field>
+        </record>
+        <record>
+            <field name="Country or Area">Papua New Guinea</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">4205000</field>
+            <field name="Value Footnotes">55</field>
+        </record>
+        <record>
+            <field name="Country or Area">Papua New Guinea</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">3946300</field>
+            <field name="Value Footnotes">55</field>
+        </record>
+        <record>
+            <field name="Country or Area">Paraguay</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">6854536</field>
+            <field name="Value Footnotes">56</field>
+        </record>
+        <record>
+            <field name="Country or Area">Paraguay</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">3457365</field>
+            <field name="Value Footnotes">56</field>
+        </record>
+        <record>
+            <field name="Country or Area">Paraguay</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">3397170</field>
+            <field name="Value Footnotes">56</field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">31488625</field>
+            <field name="Value Footnotes">27</field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">15772385</field>
+            <field name="Value Footnotes">27</field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">15716240</field>
+            <field name="Value Footnotes">27</field>
+        </record>
+        <record>
+            <field name="Country or Area">Philippines</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">103242900</field>
+            <field name="Value Footnotes">10</field>
+        </record>
+        <record>
+            <field name="Country or Area">Philippines</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">52081400</field>
+            <field name="Value Footnotes">10</field>
+        </record>
+        <record>
+            <field name="Country or Area">Philippines</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">51161500</field>
+            <field name="Value Footnotes">10</field>
+        </record>
+        <record>
+            <field name="Country or Area">Poland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">37967209</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Poland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">37956779</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Poland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">18370677</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Poland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">18377040</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Poland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">19590169</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Poland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">19586102</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Portugal</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">10325451.5</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Portugal</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">10341330</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Portugal</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">4901509</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Portugal</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">4891982.5</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Portugal</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5433469</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Portugal</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5439821</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Puerto Rico</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">3411307</field>
+            <field name="Value Footnotes">23,33</field>
+        </record>
+        <record>
+            <field name="Country or Area">Qatar</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2617634</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Qatar</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1975536</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Qatar</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">642098</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Republic of Korea</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">51245707</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Republic of Korea</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">51112971.5</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Republic of Korea</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">25527815</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Republic of Korea</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">25693983</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Republic of Korea</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">25551724</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Republic of Korea</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">25585157</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Reunion</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">850996</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Reunion</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">411240</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Reunion</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">439756</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Romania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">19706529</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Romania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">9628271</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Romania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">10078258</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rwanda</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">11533445</field>
+            <field name="Value Footnotes">52</field>
+        </record>
+        <record>
+            <field name="Country or Area">Rwanda</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5582519</field>
+            <field name="Value Footnotes">52</field>
+        </record>
+        <record>
+            <field name="Country or Area">Rwanda</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5950925</field>
+            <field name="Value Footnotes">52</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Helena ex. dep.</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4802</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Helena ex. dep.</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4534</field>
+            <field name="Value Footnotes">57</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Helena ex. dep.</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4122</field>
+            <field name="Value Footnotes">58</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Helena ex. dep.</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4659</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Helena ex. dep.</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4574</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Helena ex. dep.</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2114</field>
+            <field name="Value Footnotes">58</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Helena ex. dep.</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2396</field>
+            <field name="Value Footnotes">57</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Helena ex. dep.</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2138</field>
+            <field name="Value Footnotes">57</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Helena ex. dep.</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2008</field>
+            <field name="Value Footnotes">58</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Helena: Ascension</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">806</field>
+            <field name="Value Footnotes">57</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Helena: Ascension</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">556</field>
+            <field name="Value Footnotes">58</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Helena: Tristan da Cunha</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">293</field>
+            <field name="Value Footnotes">57</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saint Helena: Tristan da Cunha</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">271</field>
+            <field name="Value Footnotes">58</field>
+        </record>
+        <record>
+            <field name="Country or Area">Samoa</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">192126</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Samoa</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">194899</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Samoa</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">98663</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Samoa</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">93463</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">San Marino</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">34006</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">San Marino</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">34164</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">San Marino</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">16560</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">San Marino</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">16627</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">San Marino</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">17446</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">San Marino</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">17537</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Saudi Arabia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">31742308</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Saudi Arabia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">18233964</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Saudi Arabia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">13508344</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Senegal</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">14799859</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Senegal</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">7372487</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Senegal</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">7427372</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Serbia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">7058322</field>
+            <field name="Value Footnotes">6,59</field>
+        </record>
+        <record>
+            <field name="Country or Area">Serbia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">3437630</field>
+            <field name="Value Footnotes">6,59</field>
+        </record>
+        <record>
+            <field name="Country or Area">Serbia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">3620692</field>
+            <field name="Value Footnotes">6,59</field>
+        </record>
+        <record>
+            <field name="Country or Area">Singapore</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">3933559</field>
+            <field name="Value Footnotes">60,61</field>
+        </record>
+        <record>
+            <field name="Country or Area">Singapore</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">5607283</field>
+            <field name="Value Footnotes">61,62</field>
+        </record>
+        <record>
+            <field name="Country or Area">Singapore</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1929526</field>
+            <field name="Value Footnotes">60,61</field>
+        </record>
+        <record>
+            <field name="Country or Area">Singapore</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2004033</field>
+            <field name="Value Footnotes">60,61</field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovakia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">5430798</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovakia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">5426252</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovakia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2646082</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovakia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2648883</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovakia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2781915</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovakia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2780170</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovenia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2064188</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovenia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2064241</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovenia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1023872</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovenia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1023333</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovenia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1040855</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovenia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1040369</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Solomon Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">639157.490568759</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Solomon Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">326836.964859464</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Solomon Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">312320.525709296</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">South Africa</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">55908865</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Africa</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">27379728</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Africa</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">28529137</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Spain</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">46445828</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Spain</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">46450439.298377</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Spain</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">22805443.133536</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Spain</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">22809420</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Spain</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">23636408</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Spain</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">23644996.164841</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sri Lanka</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">21203000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sri Lanka</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">10265460</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sri Lanka</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">10937540</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">State of Palestine</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">4816503</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">State of Palestine</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">2447616</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">State of Palestine</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2368887</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sudan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">39647621</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sudan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">20105842</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sudan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">19541779</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Suriname</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">575763</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Suriname</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">287422</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Suriname</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">288341</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Swaziland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">1132657</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Swaziland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">538274</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Swaziland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">594383</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sweden</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">9851017</field>
+            <field name="Value Footnotes">2,35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sweden</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">4930966</field>
+            <field name="Value Footnotes">2,35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sweden</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">4920051</field>
+            <field name="Value Footnotes">2,35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Switzerland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">8419550</field>
+            <field name="Value Footnotes">63</field>
+        </record>
+        <record>
+            <field name="Country or Area">Switzerland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">8327126</field>
+            <field name="Value Footnotes">63</field>
+        </record>
+        <record>
+            <field name="Country or Area">Switzerland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">4121471</field>
+            <field name="Value Footnotes">63</field>
+        </record>
+        <record>
+            <field name="Country or Area">Switzerland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">4173437</field>
+            <field name="Value Footnotes">63</field>
+        </record>
+        <record>
+            <field name="Country or Area">Switzerland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">4246113</field>
+            <field name="Value Footnotes">63</field>
+        </record>
+        <record>
+            <field name="Country or Area">Switzerland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">4205655</field>
+            <field name="Value Footnotes">63</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tajikistan</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">8640700</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">TFYR of Macedonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2071278</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">TFYR of Macedonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">2072490</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">TFYR of Macedonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1038107</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">TFYR of Macedonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1037601</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">TFYR of Macedonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1033677</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">TFYR of Macedonia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1034383</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Thailand</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">65931550</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Thailand</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">32357808</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Thailand</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">33573742</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Togo</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">7143000</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tokelau</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">1285</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tokelau</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">1499</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tokelau</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">652</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tokelau</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">756</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tokelau</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">633</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tokelau</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">743</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tonga</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">100745</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tonga</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">50312</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tonga</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">50433</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Trinidad and Tobago</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">1353895</field>
+            <field name="Value Footnotes">6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Trinidad and Tobago</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">679288</field>
+            <field name="Value Footnotes">6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Trinidad and Tobago</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">674607</field>
+            <field name="Value Footnotes">6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tunisia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">11304500</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Turkey</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">79814871</field>
+            <field name="Value Footnotes">64</field>
+        </record>
+        <record>
+            <field name="Country or Area">Turkey</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">40043650</field>
+            <field name="Value Footnotes">64</field>
+        </record>
+        <record>
+            <field name="Country or Area">Turkey</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">39771221</field>
+            <field name="Value Footnotes">64</field>
+        </record>
+        <record>
+            <field name="Country or Area">Turks and Caicos Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">37910</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Turks and Caicos Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">19169</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Turks and Caicos Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">18741</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">10100</field>
+            <field name="Value Footnotes">55</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5100</field>
+            <field name="Value Footnotes">55</field>
+        </record>
+        <record>
+            <field name="Country or Area">Tuvalu</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">5000</field>
+            <field name="Value Footnotes">55</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uganda</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">36560700</field>
+            <field name="Value Footnotes">22</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uganda</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">17882300</field>
+            <field name="Value Footnotes">22</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uganda</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">18678400</field>
+            <field name="Value Footnotes">22</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">42760516</field>
+            <field name="Value Footnotes">65</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">42590879</field>
+            <field name="Value Footnotes">65</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">19817011</field>
+            <field name="Value Footnotes">65</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">19717881</field>
+            <field name="Value Footnotes">65</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">22943505</field>
+            <field name="Value Footnotes">65</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">22872998</field>
+            <field name="Value Footnotes">65</field>
+        </record>
+        <record>
+            <field name="Country or Area">United Arab Emirates</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">9121167</field>
+            <field name="Value Footnotes">66</field>
+        </record>
+        <record>
+            <field name="Country or Area">United Arab Emirates</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">6298294</field>
+            <field name="Value Footnotes">66</field>
+        </record>
+        <record>
+            <field name="Country or Area">United Arab Emirates</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">2822873</field>
+            <field name="Value Footnotes">66</field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom of Great Britain and Northern Ireland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">65382556</field>
+            <field name="Value Footnotes">34,67</field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom of Great Britain and Northern Ireland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">32224529</field>
+            <field name="Value Footnotes">34,67</field>
+        </record>
+        <record>
+            <field name="Country or Area">United Kingdom of Great Britain and Northern Ireland</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">33158027</field>
+            <field name="Value Footnotes">34,67</field>
+        </record>
+        <record>
+            <field name="Country or Area">United Republic of Tanzania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">50142938</field>
+            <field name="Value Footnotes">52</field>
+        </record>
+        <record>
+            <field name="Country or Area">United Republic of Tanzania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">24412293</field>
+            <field name="Value Footnotes">52</field>
+        </record>
+        <record>
+            <field name="Country or Area">United Republic of Tanzania</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">25730645</field>
+            <field name="Value Footnotes">52</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States of America</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">323127513</field>
+            <field name="Value Footnotes">23,68</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States of America</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">159078923</field>
+            <field name="Value Footnotes">23,68</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States of America</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">164048590</field>
+            <field name="Value Footnotes">23,68</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uruguay</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">3480221.77713361</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uruguay</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">1684139.60325764</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uruguay</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">1796082.17387598</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Vanuatu</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">272459</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Vanuatu</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">138265</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Vanuatu</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">134194</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Venezuela (Bolivarian Republic of)</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">31028637</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Venezuela (Bolivarian Republic of)</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">15554863</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Venezuela (Bolivarian Republic of)</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">15473774</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Viet Nam</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">92695121</field>
+            <field name="Value Footnotes">69</field>
+        </record>
+        <record>
+            <field name="Country or Area">Viet Nam</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">45705601</field>
+            <field name="Value Footnotes">69</field>
+        </record>
+        <record>
+            <field name="Country or Area">Viet Nam</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">46989520</field>
+            <field name="Value Footnotes">69</field>
+        </record>
+        <record>
+            <field name="Country or Area">Wallis and Futuna Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">11800</field>
+            <field name="Value Footnotes">55</field>
+        </record>
+        <record>
+            <field name="Country or Area">Wallis and Futuna Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">5700</field>
+            <field name="Value Footnotes">55</field>
+        </record>
+        <record>
+            <field name="Country or Area">Wallis and Futuna Islands</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">6100</field>
+            <field name="Value Footnotes">55</field>
+        </record>
+        <record>
+            <field name="Country or Area">Zambia</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">15933883</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Zimbabwe</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Value">14240168</field>
+            <field name="Value Footnotes">70</field>
+        </record>
+        <record>
+            <field name="Country or Area">Zimbabwe</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Male</field>
+            <field name="Value">6846020</field>
+            <field name="Value Footnotes">70</field>
+        </record>
+        <record>
+            <field name="Country or Area">Zimbabwe</field>
+            <field name="Year">2016</field>
+            <field name="Sex">Female</field>
+            <field name="Value">7394149</field>
+            <field name="Value Footnotes">70</field>
+        </record>
+    </data>
+    <footnotes>
+        <footnote footnoteSeqID="1">Data refer to the settled population based on the 1979 Population Census and the latest household prelisting. The refugees of Afghanistan in Iran, Pakistan, and an estimated 1.5 million nomads, are not included.</footnote>
+        <footnote footnoteSeqID="2">Population statistics are compiled from registers.</footnote>
+        <footnote footnoteSeqID="3">Projections based on the 2010 Population and Housing Census.</footnote>
+        <footnote footnoteSeqID="4">These data have been randomly rounded to protect confidentiality. Individual figures may not add up to totals, and values for the same data may vary in different tables.</footnote>
+        <footnote footnoteSeqID="5">Including population in off-shore, migratory and shipping.</footnote>
+        <footnote footnoteSeqID="6">Based on the results of the 2011 Population Census.</footnote>
+        <footnote footnoteSeqID="7">Data refer to national projections.</footnote>
+        <footnote footnoteSeqID="8">Data refer to annual average population.</footnote>
+        <footnote footnoteSeqID="9">Projections based on the 2013 Population Census.</footnote>
+        <footnote footnoteSeqID="10">Data based on the 2010 Population Census.</footnote>
+        <footnote footnoteSeqID="11">Data refer to projected figures based on the Population and Housing Census 2005 (district projection).</footnote>
+        <footnote footnoteSeqID="12">Data based on the 2011 Census.</footnote>
+        <footnote footnoteSeqID="13">Data include persons in remote areas, military personnel outside the country, merchant seamen at sea, civilian seasonal workers outside the country, and other civilians outside the country, and exclude nomads, foreign military, civilian aliens temporarily in the country, transients on ships and Indian jungle population.</footnote>
+        <footnote footnoteSeqID="14">To ensure confidentiality, the values, including totals are randomly rounded either up or down to a multiple of '5' or '10.' As a result, when these data are summed or grouped, the total value may not match the individual values since totals and sub-totals are independently rounded. Similarly, percentages, which are calculated on rounded data, may not necessarily add up to 100%.</footnote>
+        <footnote footnoteSeqID="15">Preliminary postcensal estimates.</footnote>
+        <footnote footnoteSeqID="16">Data are estimates from sample enquiry.</footnote>
+        <footnote footnoteSeqID="17">Data refer to Hong Kong resident population at the census moment, which covers usual residents and mobile residents. Usual residents refer to two categories of people: (1) Hong Kong permanent residents who had stayed in Hong Kong for at least three months during the six months before or for at least three months during the six months after the census moment, regardless of whether they were in Hong Kong or not at the census moment; and (2) Hong Kong non-permanent residents who were in Hong Kong at the census moment. Mobile Residents, they are Hong Kong permanent residents  who had stayed in Hong Kong for at least one month but less than three months during the six months before or for at least one month but less than three months during the six months after the census moment, regardless of whether they were in Hong Kong or not at the census moment.</footnote>
+        <footnote footnoteSeqID="18">Population By-census is conducted between two population censuses, and sampling method was adopted to select 29,421 housing units in Macao for enumeration, and the unit of observation was individuals residing in these units.</footnote>
+        <footnote footnoteSeqID="19">Data are revised projections taking into consideration also the results of the 2005 census.</footnote>
+        <footnote footnoteSeqID="20">Excluding Niue, shown separately, which is part of Cook Islands, but because of remoteness is administered separately.</footnote>
+        <footnote footnoteSeqID="21">Based on the national household survey of 2016.</footnote>
+        <footnote footnoteSeqID="22">Projections based on the 2014 Population Census.</footnote>
+        <footnote footnoteSeqID="23">Postcensal estimates.</footnote>
+        <footnote footnoteSeqID="24">Data refer to government controlled areas.</footnote>
+        <footnote footnoteSeqID="25">Excluding Faeroe Islands and Greenland shown separately, if available.</footnote>
+        <footnote footnoteSeqID="26">Excludes nomadic Indian tribes.</footnote>
+        <footnote footnoteSeqID="27">Estimates or projections based on the 2007 Population Census.</footnote>
+        <footnote footnoteSeqID="28">Estimates considering also the results of the 2007 Population Census.</footnote>
+        <footnote footnoteSeqID="29">Excluding Åland Islands.</footnote>
+        <footnote footnoteSeqID="30">Excluding diplomatic personnel outside the country and including members of alien armed forces not living in military camps and foreign diplomatic personnel not living in embassies or consulates.</footnote>
+        <footnote footnoteSeqID="31">Based on the results of the 2014 Population Census.</footnote>
+        <footnote footnoteSeqID="32">Excluding data for Saint Barthélémy and Saint Martin.</footnote>
+        <footnote footnoteSeqID="33">Including armed forces stationed in the area.</footnote>
+        <footnote footnoteSeqID="34">Data refer to usually resident population.</footnote>
+        <footnote footnoteSeqID="35">Data refer to registered resident population.</footnote>
+        <footnote footnoteSeqID="36">Data are based on the publication: "Indonesia Population Projection 2010-2035"</footnote>
+        <footnote footnoteSeqID="37">Data refer to the Iranian Year which begins on 21 March and ends on 20 March of the following year.</footnote>
+        <footnote footnoteSeqID="38">Includes data for East Jerusalem and Israeli residents in certain other territories under occupation by Israeli military forces since June 1967.</footnote>
+        <footnote footnoteSeqID="39">Because of rounding, totals are not in all cases the sum of the respective components.</footnote>
+        <footnote footnoteSeqID="40">Excluding diplomatic personnel outside the country and foreign military and civilian personnel and their dependants stationed in the area.</footnote>
+        <footnote footnoteSeqID="41">Estimates based on the complete counts of the 2015 Population Census</footnote>
+        <footnote footnoteSeqID="42">Excluding data for Jordanian territory under occupation since June 1967 by Israeli military forces.</footnote>
+        <footnote footnoteSeqID="43">Post-censal estimates based on the 2009 Population Census.</footnote>
+        <footnote footnoteSeqID="44">Estimates based on the results of 2015 population census.</footnote>
+        <footnote footnoteSeqID="45">Estimates based on the adjusted results of the Population and Housing Census of 2010.</footnote>
+        <footnote footnoteSeqID="46">Data refer to resident Maldivian population.</footnote>
+        <footnote footnoteSeqID="47">Including civilian nationals temporarily outside the country.</footnote>
+        <footnote footnoteSeqID="48">Excludes the islands of St. Brandon and Agalega.</footnote>
+        <footnote footnoteSeqID="49">Data refer to resident population only.</footnote>
+        <footnote footnoteSeqID="50">Projections based on the results of national survey on population and health conducted between 2010 and 2011, and especially population and housing census 2014.</footnote>
+        <footnote footnoteSeqID="51">Data refer to projections based on the 2011 Population Census.</footnote>
+        <footnote footnoteSeqID="52">Projections based on the 2012 Population and Housing Census.</footnote>
+        <footnote footnoteSeqID="53">Data are projections based on the 2006 Population Census.</footnote>
+        <footnote footnoteSeqID="54">Data refer to registered population data from Royal Oman Police.</footnote>
+        <footnote footnoteSeqID="55">Estimates are prepared by the Secretariat of the Pacific Community based on the last population and housing census.</footnote>
+        <footnote footnoteSeqID="56">Estimates or projections considering also the results of the 2012 Population Census.</footnote>
+        <footnote footnoteSeqID="57">Data refer to total resident population, Saint Helenian and other nationalities.</footnote>
+        <footnote footnoteSeqID="58">Data refer to Saint Helenian resident population.</footnote>
+        <footnote footnoteSeqID="59">Excludes data for Kosovo and Metohia.</footnote>
+        <footnote footnoteSeqID="60">Data refer to resident population which comprises Singapore citizens and permanent residents.</footnote>
+        <footnote footnoteSeqID="61">Data exclude residents who have been away from Singapore for a continuous period of 12 months or longer as at the reference date.</footnote>
+        <footnote footnoteSeqID="62">Data refer to total population, which comprises Singapore residents and non-residents.</footnote>
+        <footnote footnoteSeqID="63">Data refer to legal resident population.</footnote>
+        <footnote footnoteSeqID="64">Data based on Address Based Population Registration System.</footnote>
+        <footnote footnoteSeqID="65">The Government of Ukraine has informed the United Nations that it is not in a position to provide statistical data concerning the Autonomous Republic of Crimea and the city of Sevastopol.</footnote>
+        <footnote footnoteSeqID="66">Data include non-national population.</footnote>
+        <footnote footnoteSeqID="67">Excluding Channel Islands (Guernsey and Jersey) and Isle of Man, shown separately, if available.</footnote>
+        <footnote footnoteSeqID="68">Excluding U.S. Armed Forces overseas and civilian U.S. citizens whose usual place of residence is outside the United States.</footnote>
+        <footnote footnoteSeqID="69">Data are adjusted according to the results of the 2009 census and 2014 intercensus.</footnote>
+        <footnote footnoteSeqID="70">Projections based on the 2012 Population Census.</footnote>
+    </footnotes>
+</ROOT>

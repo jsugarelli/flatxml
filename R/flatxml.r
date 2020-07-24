@@ -1,9 +1,10 @@
 #' flatXML: Tools for Working with XML Files as R Dataframes
 #'
-#' @section Overview:
+#' @description
 #' \code{flatxml} provides functions to easily deal with XML files. When parsing an XML document with \code{\link{fxml_importXMLFlat}}, \code{flatxml} produces a special dataframe that is \'flat\' by its very nature but contains all necessary information about the hierarchical structure of the underlying XML document (for details on the dataframe see the reference for the \code{\link{fxml_importXMLFlat}} function).
 #' \code{flatxml} offers a set of functions to work with this dataframe.
-#' Apart from representing the XML document in a dataframe structure, there is yet another way in which \code{flatxml} relates to dataframes: the \code{\link{fxml_toDataFrame}} function can be used to extract data from an XML document into a dataframe, e.g. to work on the data with statistical functions. Because in this case there is no need to represent the XML document structure as such (it's all about the data contained in the document), there is no representation of the hierarchical structure of the document any more, it's just a normal dataframe.
+#' Apart from representing the XML document in a dataframe structure, there is yet another way in which \code{flatxml} relates to dataframes: the \code{\link{fxml_toDataFrame}} and \code{\link{fxml_toXML}} functions can be used convert XML data to dataframes and vice versa.
+#'
 #' Each XML element, for example \code{<tag attribute="some value">Here is some text</tag>} has certain characteristics that can be accessed via the \code{flatxml} interface functions, after an XML document has been imported with \code{\link{fxml_importXMLFlat}}. These characteristics are:
 #' \itemize{
 #' \item \emph{value}: The (text) value of the element, \code{"Here is some text"} in the example above
@@ -65,6 +66,12 @@
 #' }
 #'
 #'
+#' @section Functions for converting between XML and dataframe:
+#' \itemize{
+#' \item \code{\link{fxml_toDataFrame}} (converts a (flattened) XML document to a dataframe)
+#' \item \code{\link{fxml_toXML}} (converts a dataframe to an XML document)
+#' }
+#'
 #' @section Other functions:
 #'
 #' \itemize{
@@ -76,6 +83,11 @@
 #' @docType package
 #' @name flatxml
 NULL
+
+
+.onAttach <- function(libname, pkgname){
+  packageStartupMessage(paste0(crayon::cyan$bold("You are using 'flatxml'. \n\n"),crayon::green("If you want to convert XML data to R data frames or vice-versa, it is recommend to install the '"), crayon::green$bold("xmlconvert"), crayon::green("' package and use its xml_to_df() and df_to_xml() functions. Type 'install.packages(\"xmlconvert\", dependencies = TRUE)' into the R console' to install 'xmlconvert'.\n")))
+}
 
 
 #' @title Handling flat XML files
@@ -112,12 +124,32 @@ NULL
 #'
 #' @export
 fxml_importXMLFlat <- function(path) {
-  if(file.exists(path) | RCurl::url.exists(path)) xml<-xml2::read_xml(path)
-  else stop(paste0("XML document '", path, "' cannot be found."))
+  xml <- NULL
+  if(file.exists(path)) {
+    xml<-xml2::read_xml(path)
+  }  else {
+    if(url.isvalid(path)) {
+      xml <- xml2::read_xml(httr::content(httr::GET(path), as = "text"))
+    } else {
+      stop(paste0("XML document '", path, "' cannot be found."))
+    }
+  }
   path<-character(0)
   df<-data.frame(elem.=character(0), elemid.=integer(0), attr.=character(0), value.=character(0), stringsAsFactors=FALSE)
   root <- xml2::xml_root(xml)
   return(flattenXML(root, df, path))
+}
+
+
+url.isvalid <- function(url){
+  con <- url(url)
+  res <- suppressWarnings(try(open.connection(con, open="r",timeout = 3), silent = TRUE)[1])
+  suppressWarnings(try(close.connection(con), silent = TRUE))
+  if (is.null(res)) {
+    return(TRUE)
+  } else {
+    return(FALSE)
+  }
 }
 
 
@@ -1046,8 +1078,8 @@ fxml_getElement <- function(xmlflat.df, elemid) {
 
 
 
-#' @title Extracting data from an XML document into a dataframe
-#' @description Reads in data from an XML document and returns a dataframe.
+#' @title Converting between XML and dataframes
+#' @description Converts an XML document to a dataframe.
 #'
 #' @param xmlflat.df A flat XML dataframe created with \code{\link{fxml_importXMLFlat}}.
 #' @param siblings.of ID of one of the XML elements that contain the data records. All data records need to be on the same hierarchical level as the XML element with this ID.
@@ -1088,7 +1120,7 @@ fxml_getElement <- function(xmlflat.df, elemid) {
 #'
 #' @author Joachim Zuckarelli \email{joachim@@zuckarelli.de}
 #'
-#' @seealso \code{\link{fxml_importXMLFlat}}
+#' @seealso \code{\link{fxml_importXMLFlat}}, \code{\link{fxml_toXML}}
 #' @examples
 #' # Load example file with population data from United Nations Statistics Division
 #' # and create flat dataframe
@@ -1256,4 +1288,45 @@ fxml_getElementInfo <- function(xmlflat.df, elemid) {
     else stop("Invalid element ID.")
   }
   else stop(paste0("'", deparse(substitute(xmlflat.df)), "' is not a flat XML dataframe."))
+}
+
+
+
+#' @title Converting between XML and dataframes
+#' @description Converts a dataframe to XML.
+#'
+#' @param df The dataframe to be converted (also works with tibbles and the like)
+#' @param filename Name of the file to which the XML will be saved; default is \code{NULL} meaning no file is produced
+#' @param element.tag The tag name of the XML element that will carry the data (see example)
+#' @param indent Character(s) used for indentation to make the XML prettier; tabulator (\code{"\\t"}) by default ("" will lead to no indentation)
+#' @param line.break Character(s) that is written at the end of each line of the XML (line break \code{"\\n"} by default)
+#' @param return.xml If \code{TRUE}, the XML will be returned by the function; so you can decide if you want the function write a file, or just return the XML code, or both.
+#'
+#' @return If \code{return.xml == TRUE} the XML code is returned. If \code{filename} is not \code{NULL} then the XML is (additionally) written to the specified file.
+#'
+#' @author Joachim Zuckarelli \email{joachim@@zuckarelli.de}
+#'
+#' @seealso \code{\link{fxml_toDataFrame}}
+#' @examples
+#' mydata<-data.frame(list(var1 = c("a", "b", "c"), var2 = c(1,2,3)))
+#' fxml_toXML(mydata, return.xml = TRUE)
+#'
+#' @export
+fxml_toXML <- function(df, filename = NULL, element.tag = "record", indent = "\t", line.break = "\n", return.xml = FALSE) {
+  if("data.frame" %in% class(df)) {
+    xml <- paste0("<xml>", line.break)
+    for(i in 1:NROW(df)) {
+      xml <- paste0(xml, indent, "<", element.tag, ">", line.break)
+      for(f in 1:NCOL(df)) {
+        xml <- paste0(xml, indent, indent, "<", colnames(df)[f], ">", df[i,f], "</", colnames(df)[f], ">", line.break)
+      }
+      xml <- paste0(xml, indent, "</", element.tag, ">", line.break)
+    }
+    xml <- paste0(xml, "</xml>")
+    if(!is.null(filename)) cat(xml, file = filename)
+    if(return.xml) return(xml)
+  }
+  else {
+    stop(paste0("Argument 'df' must be a dataframe, but is of class ", paste0(class(df), collapse=", "), " here."))
+  }
 }

@@ -9,11 +9,11 @@ date: "25 Juni 2018" -->
 
 **Please note: This is only a first introductory example. The examples section will be extended in the near future.**
 
-As an example let's load an XML file exported from the database of the United Nations Statistics Division. This step may take some time as the XML file is quite large, so be patient when you reproduce these results in R. Please [click here](http://www.zuckarelli.de/flatxml/worldpopulation.xml) to download the dataset.  
+As an example let's load an XML file exported from the database of the United Nations Statistics Division. This step may take some time as the XML file is quite large, so be patient when you reproduce these results in R. Please [click here](https://www.zuckarelli.de/flatxml/worldpopulation.xml) to download the dataset.  
 
 ```{r echo=TRUE}
 library(flatxml)
-xml.dataframe <- fxml_importXMLFlat("http://www.zuckarelli.de/flatxml/worldpopulation.xml")
+xml.dataframe <- fxml_importXMLFlat("https://www.zuckarelli.de/flatxml/worldpopulation.xml")
 ```
 
 `fxml_importXMLFlat` returns a dataframe. This dataframe represents the hierarchical structure of the XML document. All other functions from the `flatxml` package work with this kind of representation of the XML document.  

@@ -3,16 +3,12 @@
 \docType{package}
 \name{flatxml}
 \alias{flatxml}
-\alias{flatxml-package}
 \title{flatXML: Tools for Working with XML Files as R Dataframes}
 \description{
-flatXML: Tools for Working with XML Files as R Dataframes
-}
-\section{Overview}{
-
 \code{flatxml} provides functions to easily deal with XML files. When parsing an XML document with \code{\link{fxml_importXMLFlat}}, \code{flatxml} produces a special dataframe that is \'flat\' by its very nature but contains all necessary information about the hierarchical structure of the underlying XML document (for details on the dataframe see the reference for the \code{\link{fxml_importXMLFlat}} function).
 \code{flatxml} offers a set of functions to work with this dataframe.
-Apart from representing the XML document in a dataframe structure, there is yet another way in which \code{flatxml} relates to dataframes: the \code{\link{fxml_toDataFrame}} function can be used to extract data from an XML document into a dataframe, e.g. to work on the data with statistical functions. Because in this case there is no need to represent the XML document structure as such (it's all about the data contained in the document), there is no representation of the hierarchical structure of the document any more, it's just a normal dataframe.
+Apart from representing the XML document in a dataframe structure, there is yet another way in which \code{flatxml} relates to dataframes: the \code{\link{fxml_toDataFrame}} and \code{\link{fxml_toXML}} functions can be used convert XML data to dataframes and vice versa.
+
 Each XML element, for example \code{<tag attribute="some value">Here is some text</tag>} has certain characteristics that can be accessed via the \code{flatxml} interface functions, after an XML document has been imported with \code{\link{fxml_importXMLFlat}}. These characteristics are:
 \itemize{
 \item \emph{value}: The (text) value of the element, \code{"Here is some text"} in the example above
@@ -22,7 +18,6 @@ Each XML element, for example \code{<tag attribute="some value">Here is some tex
 \item \emph{siblings}: The elements on the same hierarchical level as the current element
 }
 }
-
 \section{Structure of the flatxml interface}{
 
 The \code{flatxml} interface to access these characteristics follows a simple logic: For each of the characteristics there are typically three functions available:
@@ -74,6 +69,14 @@ For siblings:
 \item \code{\link{fxml_findPathFull}} (find an element based on its complete path)
 \item \code{\link{fxml_findPathRoot}} (search in the path to an XML element starting at the top element [root node])
 \item \code{\link{fxml_findPathBottom}} (search in the path to an XML element starting at the lowest hierarchical level)
+}
+}
+
+\section{Functions for converting between XML and dataframe}{
+
+\itemize{
+\item \code{\link{fxml_toDataFrame}} (converts a (flattened) XML document to a dataframe)
+\item \code{\link{fxml_toXML}} (converts a dataframe to an XML document)
 }
 }
 
